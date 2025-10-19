@@ -1,0 +1,15 @@
+# IT References
+### Common Ports:
+- 20/21 FTP, 22 SSH, 23 Telnet, 25 SMTP, 53 DNS, 80 HTTP, 110 POP3, 143 IMAP, 443 HTTPS, 3389 RDP
+### Windows Commands:
+- ipconfig, ping, netstat, sfc, chkdsk, tasklist, shutdown /r
+### Linux Commands:
+- ls, cd, pwd, grep, sudo, cat, df, top
+### Troubleshooting Steps:
+- Identify → Hypothesize → Test → Verify → Document
+### Networking Devices:
+- Router — connects networks
+- Switch — connects devices
+- Access Point — wireless network hub
+- Modem — translates ISP signal
+- Firewall — monitors and blocks unsafe traffic
